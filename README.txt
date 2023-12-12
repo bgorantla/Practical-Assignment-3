@@ -9,3 +9,5 @@ Using the trained models, the bank can input the details of a person they want t
 
 FINDINGS
 Overall, the age and marital status of a client influence the chance of subscription the most although all factors play a role.
+
+Link to project: https://github.com/bgorantla/Practical-Assignment-3/blob/main/assignment_17.ipynb
